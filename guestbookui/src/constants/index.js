@@ -1,0 +1,1 @@
+export const GUEST_API_URL = 'https://localhost:44301/api/guestbooks';
